@@ -1,0 +1,52 @@
+.header_div
+{
+  background:rgb(255, 255, 255);
+  color:rgb(255, 101, 74);  
+}
+.header_div img
+{
+width: 100px
+}
+body{
+    background-color: aquamarine;
+}
+
+.main_div
+{
+    background:aquamarine
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white  ;
+}
+#camera
+{
+  width:310px;
+  height:300px;
+  border:2px solid white  ;
+}
+
+#result
+{
+  width:310px;
+  height:300px;
+  border:2px solid white  ;
+}
+
+.footer_div
+{
+  margin-bottom: 50px;
+  
+}
+.footer_div img
+{
+width:70px;
+}
+.footer_div h4
+{
+  background: azure;
+  border-radius: 10px;
+  padding: 5px;
+  box-shadow: 5px 5px 18px white;
+}
+
+
